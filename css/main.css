@@ -1842,9 +1842,9 @@
 			}
 
 		header.major > p {
-			font-size: 0.7em;
+			font-size: 0.75em;
 			font-weight: 600;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.125em;
 			margin-bottom: 0;
 			text-transform: uppercase;
 		}
@@ -3445,7 +3445,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.75;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3506,13 +3506,13 @@
 				#banner > .inner .content p {
 					font-size: 0.7em;
 					font-weight: 600;
-					letter-spacing: 0.25em;
+					letter-spacing: 0.125em;
 					text-transform: uppercase;
 				}
 
 		#banner.major {
 			height: 100vh;
-			min-height: 30em;
+			min-height: 40em;
 			max-height: 100rem;
 		}
 

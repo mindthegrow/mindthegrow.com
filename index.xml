@@ -6,10 +6,19 @@
     <description>Recent content on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mindthegrow.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://www.mindthegrow.com/services/ipsum/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/services/ipsum/</guid>
+      <description>services</description>
+    </item>
     
     <item>
       <title>Location</title>
@@ -76,15 +85,6 @@ CHALLENGES  Find the organizations with which you will engage to craft a plan fo
       <guid>https://www.mindthegrow.com/blogs/</guid>
       <description>The Green Rush has resulted in a skewed marketplace subject to price volatility. Diversification is the key to weathering the storm of wild market swings. Identifying strategies to find a sustainable market niche is becoming a necessity. No matter how uncertain or complex your problem seems, Mind the Grow provides you with custom solutions for all stages of the agricultural production cycle, from seed to store
 Insights We dig deep into your company’s data to discover opportunities and problem areas.</description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://www.mindthegrow.com/services/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://www.mindthegrow.com/services/ipsum/</guid>
-      <description>services</description>
     </item>
     
   </channel>
