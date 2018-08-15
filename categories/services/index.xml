@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Mind the Grow</title>
-    <link>https://www.mindthegrow.com/categories/services/</link>
+    <link>http://www.mindthegrow.com/categories/services/</link>
     <description>Recent content in Services on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.mindthegrow.com/categories/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.mindthegrow.com/categories/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Analysis</title>
-      <link>https://www.mindthegrow.com/services/analytics/</link>
+      <link>http://www.mindthegrow.com/services/analytics/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/services/analytics/</guid>
+      <guid>http://www.mindthegrow.com/services/analytics/</guid>
       <description>Rigorous Insights We dig deep into your company’s data to discover opportunities and problem areas.
 We present you with a variety of options to achieve your goals as well as the associated risk profile for each decision.
 Simulating Reality By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.
@@ -25,20 +25,20 @@ Communication Everything starts with a conversation. We consider the challenges 
     
     <item>
       <title>Data-Driven Agriculture</title>
-      <link>https://www.mindthegrow.com/services/agriculture/</link>
+      <link>http://www.mindthegrow.com/services/agriculture/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/services/agriculture/</guid>
+      <guid>http://www.mindthegrow.com/services/agriculture/</guid>
       <description>Problem The Green Rush has resulted in a skewed marketplace subject to price volatility. Diversification is the key to weathering the storm of wild market swings.
 Responsible Agriculture Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment. These goals may seem at odds with profit margins, but through creative solutions and robust analytics, we help you achieve responsible growth for your plants and your business.</description>
     </item>
     
     <item>
       <title>Extraction and Testing</title>
-      <link>https://www.mindthegrow.com/services/chemistry/</link>
+      <link>http://www.mindthegrow.com/services/chemistry/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/services/chemistry/</guid>
+      <guid>http://www.mindthegrow.com/services/chemistry/</guid>
       <description>Precision Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
 The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
 Efficiency We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>
@@ -46,20 +46,20 @@ Efficiency We can use the latest developments from simulation-based optimal expe
     
     <item>
       <title>Growth Hacking</title>
-      <link>https://www.mindthegrow.com/services/growth/</link>
+      <link>http://www.mindthegrow.com/services/growth/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/services/growth/</guid>
+      <guid>http://www.mindthegrow.com/services/growth/</guid>
       <description>Insights We aim to provide you with clear and concise information to address your most pressing questions and concerns.
 Opportunity We identify problems and find new sectors for expansion. By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
     </item>
     
     <item>
       <title>Investment Consulting</title>
-      <link>https://www.mindthegrow.com/services/investment/</link>
+      <link>http://www.mindthegrow.com/services/investment/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/services/investment/</guid>
+      <guid>http://www.mindthegrow.com/services/investment/</guid>
       <description>Insights Growth is central to your survival.
 Funders want to know the risks of their ventures, and we bridge the gap between their concerns and your ambitions.
 Strategy We help you actualize goals into reality by crafting rigorous business plans. As you already know, big plans come with big unknowns. Let us quantify them.
