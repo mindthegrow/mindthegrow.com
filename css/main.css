@@ -2964,7 +2964,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: rgba(0,40,10,1.0);
 		}
 
 			.spotlights > section > .image {
@@ -3026,7 +3026,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: rgba(0,20,10,1.0);
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3147,7 +3147,7 @@
 		height: 3.25em;
 		left: 0;
 		letter-spacing: 0.25em;
-		line-height: 3.25em;
+		line-height: 1.75em;
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
@@ -3162,7 +3162,7 @@
 			font-size: 1em;
 			height: inherit;
 			line-height: inherit;
-			padding: 0em  1.5em;
+			padding: 0.75rem  1.5rem;
 		}
 
 			#header .logo strong {
@@ -3206,10 +3206,10 @@
 			#header nav a {
 				border: 0;
 				display: block;
-				font-size: 0.8em;
+				font-size: 0.75em;
 				height: inherit;
 				line-height: inherit;
-				padding: 0 0.75em;
+				padding: 1em 1em;
 				position: relative;
 				vertical-align: middle;
 			}
