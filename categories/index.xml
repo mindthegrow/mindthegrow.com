@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mind the Grow</title>
-    <link>https://www.mindthegrow.org/categories/</link>
+    <link>https://www.mindthegrow.com/categories/</link>
     <description>Recent content in Categories on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.mindthegrow.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mindthegrow.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.mindthegrow.org/categories/</link>
+      <link>https://www.mindthegrow.com/categories/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.org/categories/</guid>
+      <guid>https://www.mindthegrow.com/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case Study</title>
-      <link>https://www.mindthegrow.org/categories/case-study/</link>
+      <link>https://www.mindthegrow.com/categories/case-study/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.org/categories/case-study/</guid>
+      <guid>https://www.mindthegrow.com/categories/case-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legal</title>
-      <link>https://www.mindthegrow.org/categories/legal/</link>
+      <link>https://www.mindthegrow.com/categories/legal/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.org/categories/legal/</guid>
+      <guid>https://www.mindthegrow.com/categories/legal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Consumption</title>
-      <link>https://www.mindthegrow.org/categories/social-consumption/</link>
+      <link>https://www.mindthegrow.com/categories/social-consumption/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.org/categories/social-consumption/</guid>
+      <guid>https://www.mindthegrow.com/categories/social-consumption/</guid>
       <description></description>
     </item>
     
