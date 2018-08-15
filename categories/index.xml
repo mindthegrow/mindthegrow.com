@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mind the Grow</title>
-    <link>http://www.mindthegrow.com/categories/</link>
+    <link>https://www.mindthegrow.com/categories/</link>
     <description>Recent content in Categories on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.mindthegrow.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mindthegrow.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.mindthegrow.com/categories/</link>
+      <link>https://www.mindthegrow.com/categories/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/</guid>
+      <guid>https://www.mindthegrow.com/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case Study</title>
-      <link>http://www.mindthegrow.com/categories/case-study/</link>
+      <link>https://www.mindthegrow.com/categories/case-study/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/case-study/</guid>
+      <guid>https://www.mindthegrow.com/categories/case-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cce</title>
-      <link>http://www.mindthegrow.com/categories/cce/</link>
+      <link>https://www.mindthegrow.com/categories/cce/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/cce/</guid>
+      <guid>https://www.mindthegrow.com/categories/cce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legal</title>
-      <link>http://www.mindthegrow.com/categories/legal/</link>
+      <link>https://www.mindthegrow.com/categories/legal/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/legal/</guid>
+      <guid>https://www.mindthegrow.com/categories/legal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>http://www.mindthegrow.com/categories/services/</link>
+      <link>https://www.mindthegrow.com/categories/services/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/services/</guid>
+      <guid>https://www.mindthegrow.com/categories/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Consumption</title>
-      <link>http://www.mindthegrow.com/categories/social-consumption/</link>
+      <link>https://www.mindthegrow.com/categories/social-consumption/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mindthegrow.com/categories/social-consumption/</guid>
+      <guid>https://www.mindthegrow.com/categories/social-consumption/</guid>
       <description></description>
     </item>
     
