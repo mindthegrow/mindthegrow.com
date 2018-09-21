@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Mind the Grow</title>
-    <link>https://www.mindthegrow.com/categories/services/</link>
-    <description>Recent content in Services on Mind the Grow</description>
+    <title>Production on Mind the Grow</title>
+    <link>https://www.mindthegrow.com/categories/production/</link>
+    <description>Recent content in Production on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.mindthegrow.com/categories/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mindthegrow.com/categories/production/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -42,40 +42,6 @@ Approach We can help you identify optimal conditions for any strain, experiment 
       <description>Problem Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
 Approach The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
 We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>
-    </item>
-    
-    <item>
-      <title>Cannabis Consumption Enterprises</title>
-      <link>https://www.mindthegrow.com/opportunity/cce/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/cce/</guid>
-      <description>Problem The Social Consumption License created by [Initiative 300][1] in Denver, CO is so new that very little information exists online. A client approached us to perform a preliminary investigation into what is required to get started.
-Approach We compiled a report that categorized the main obstacles and linked to resources for accomplishing the requirements. The focus was on clarity of exposition and brevity.
-Outcome The client decided the location requirements were prohibitively expensive and chose not to pursue the project further.</description>
-    </item>
-    
-    <item>
-      <title>Growth Hacking</title>
-      <link>https://www.mindthegrow.com/opportunity/growth/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/growth/</guid>
-      <description>Problem Growth is central to survival. Understanding where inefficiencies lie in your business can help catapult you to the next level.
-Approach We aim to provide you with clear and concise information to address your most pressing questions and concerns.
-Outcome We identify problems and find new sectors for expansion. By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
-    </item>
-    
-    <item>
-      <title>Investment Consulting</title>
-      <link>https://www.mindthegrow.com/opportunity/investment/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/investment/</guid>
-      <description>Problem Growth is central to survival.
-Funders want to know the risks of their ventures, and we bridge the gap between their concerns and your ambitions.
-Approach We help you actualize goals into reality by crafting rigorous business plans. As you already know, big plans come with big unknowns. Let us quantify them.
-By helping you identify and assess risks, we allow your business to try new ideas without sacrificing potential profits.</description>
     </item>
     
   </channel>
