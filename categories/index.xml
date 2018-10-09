@@ -6,17 +6,35 @@
     <description>Recent content in Categories on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mindthegrow.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bizdev</title>
+      <link>https://www.mindthegrow.com/categories/bizdev/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/bizdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Case Study</title>
       <link>https://www.mindthegrow.com/categories/case-study/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>https://www.mindthegrow.com/categories/forecasting/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/forecasting/</guid>
       <description></description>
     </item>
     
@@ -30,9 +48,18 @@
     </item>
     
     <item>
+      <title>Markets</title>
+      <link>https://www.mindthegrow.com/categories/markets/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opportunity</title>
       <link>https://www.mindthegrow.com/categories/opportunity/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/opportunity/</guid>
       <description></description>
@@ -41,7 +68,7 @@
     <item>
       <title>Production</title>
       <link>https://www.mindthegrow.com/categories/production/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/production/</guid>
       <description></description>
@@ -50,7 +77,7 @@
     <item>
       <title>Retail</title>
       <link>https://www.mindthegrow.com/categories/retail/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/retail/</guid>
       <description></description>
@@ -59,7 +86,7 @@
     <item>
       <title>Services</title>
       <link>https://www.mindthegrow.com/categories/services/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/services/</guid>
       <description></description>
@@ -71,6 +98,24 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.mindthegrow.com/categories/social-consumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing</title>
+      <link>https://www.mindthegrow.com/categories/staffing/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/staffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>https://www.mindthegrow.com/categories/startups/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/startups/</guid>
       <description></description>
     </item>
     

@@ -3,32 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.mindthegrow.com/production/analytics/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/forecasting/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/risk/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/startups/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/staff/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/bizdev/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/operations/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/quality/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/branding/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/markets/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/mission/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/staff/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/services/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/production/agriculture/</loc>
-    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+    <loc>https://www.mindthegrow.com/casestudies/forecasting/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/production/chemistry/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/markets/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/forecasting/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/opportunity/cce/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/quality/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/bizdev/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/opportunity/growth/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/cce/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/opportunity/investment/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/startups/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/retail/socialconsumption/</loc>
+    <loc>https://www.mindthegrow.com/casestudies/socialconsumption/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,17 +143,35 @@
   </url>
   
   <url>
+    <loc>https://www.mindthegrow.com/categories/bizdev/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mindthegrow.com/work/</loc>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/case-study/</loc>
-    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/casestudies/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/forecasting/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,38 +183,56 @@
   </url>
   
   <url>
-    <loc>https://www.mindthegrow.com/</loc>
+    <loc>https://www.mindthegrow.com/categories/markets/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/opportunity/</loc>
-    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/production/</loc>
-    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/retail/</loc>
-    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/services/</loc>
-    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.mindthegrow.com/categories/social-consumption/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/staffing/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mindthegrow.com/categories/startups/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

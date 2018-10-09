@@ -6,17 +6,44 @@
     <description>Recent content in Retail on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mindthegrow.com/categories/retail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Risk Mitigation</title>
+      <link>https://www.mindthegrow.com/categories/risk/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations</title>
+      <link>https://www.mindthegrow.com/categories/operations/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branding</title>
+      <link>https://www.mindthegrow.com/categories/branding/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/categories/branding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cannabis Consumption Enterprises</title>
-      <link>https://www.mindthegrow.com/opportunity/cce/</link>
+      <link>https://www.mindthegrow.com/casestudies/cce/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/opportunity/cce/</guid>
+      <guid>https://www.mindthegrow.com/casestudies/cce/</guid>
       <description>Problem The Social Consumption License created by [Initiative 300][1] in Denver, CO is so new that very little information exists online. A client approached us to perform a preliminary investigation into what is required to get started.
 Approach We compiled a report that categorized the main obstacles and linked to resources for accomplishing the requirements. The focus was on clarity of exposition and brevity.
 Outcome The client decided the location requirements were prohibitively expensive and chose not to pursue the project further.</description>
@@ -24,10 +51,10 @@ Outcome The client decided the location requirements were prohibitively expensiv
     
     <item>
       <title>Social Consumption License</title>
-      <link>https://www.mindthegrow.com/retail/socialconsumption/</link>
+      <link>https://www.mindthegrow.com/casestudies/socialconsumption/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/retail/socialconsumption/</guid>
+      <guid>https://www.mindthegrow.com/casestudies/socialconsumption/</guid>
       <description>Problem A client approached us with interest in exploring the feasibility of opening up a new Cannabis Consumption Enterprise in Denver, CO (our home-base!).
 The passing of Initiative 300 to legalize designated areas for the consumption of cannabis products was exciting, but the legal hoops to jump through are numerous, so it is no surprise that there is a severe paucity of operational businesses. At the time of this writing (mid-2018), only two are operational.</description>
     </item>

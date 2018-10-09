@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startups on Mind the Grow</title>
+    <link>https://www.mindthegrow.com/categories/startups/</link>
+    <description>Recent content in Startups on Mind the Grow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.mindthegrow.com/categories/startups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Support for Startups</title>
+      <link>https://www.mindthegrow.com/casestudies/startups/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/startups/</guid>
+      <description>Problem Funders want to know the risks of their ventures, and we bridge the gap between their concerns and your ambitions.
+Approach We help you actualize goals into reality by crafting rigorous business plans. As you already know, big plans come with big unknowns. Let us quantify them.
+By helping you identify and assess risks, we allow your business to try new ideas without sacrificing potential profits.
+Outcome We turn idealistic goals into realistic implementation strategies.</description>
+    </item>
+    
+  </channel>
+</rss>

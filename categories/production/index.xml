@@ -6,17 +6,66 @@
     <description>Recent content in Production on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mindthegrow.com/categories/production/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Agricultural Planning &amp; Forecasting</title>
+      <link>https://www.mindthegrow.com/casestudies/forecasting/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Requirements</title>
+      <link>https://www.mindthegrow.com/casestudies/staff/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/staff/</guid>
+      <description>Problem Determining how many people to hire in order to trim your product can be very difficult.
+Approach You give us the ranges of yields you expect to experience and how quickly you believe your employees can process the product. We can also factor in the fact that delays occur and sometimes can prevent other jobs from being performed. You tell us what you are willing to pay and how long the shifts you plan on scheduling have to be.</description>
+    </item>
+    
+    <item>
+      <title>Quality Assurance</title>
+      <link>https://www.mindthegrow.com/casestudies/quality/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing</title>
+      <link>https://www.mindthegrow.com/casestudies/staff/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/staff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytics</title>
-      <link>https://www.mindthegrow.com/production/analytics/</link>
+      <link>https://www.mindthegrow.com/categories/services/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/production/analytics/</guid>
+      <guid>https://www.mindthegrow.com/categories/services/</guid>
+      <description>Problem Everything starts with a conversation. We consider the challenges unique to your business and compile a list of your ideas for potential solutions.
+Approach We dig deep into your company’s data to discover opportunities and problem areas.
+By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.
+Outcome We present you with a variety of options to achieve your goals as well as the associated risk profile for each decision.</description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>https://www.mindthegrow.com/casestudies/forecasting/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/forecasting/</guid>
       <description>Problem Everything starts with a conversation. We consider the challenges unique to your business and compile a list of your ideas for potential solutions.
 Approach We dig deep into your company’s data to discover opportunities and problem areas.
 By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.
@@ -25,20 +74,20 @@ Outcome We present you with a variety of options to achieve your goals as well a
     
     <item>
       <title>Data-Driven Agriculture</title>
-      <link>https://www.mindthegrow.com/production/agriculture/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://www.mindthegrow.com/casestudies/forecasting/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/production/agriculture/</guid>
+      <guid>https://www.mindthegrow.com/casestudies/forecasting/</guid>
       <description>Problem The Green Rush has resulted in a skewed marketplace subject to price volatility. Diversification is the key to weathering the storm of wild market swings. Identifying strategies to find a sustainable market niche is becoming a necessity.
 Approach We can help you identify optimal conditions for any strain, experiment with diversification and reinvestment strategies, and generate projections to attract investors. Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment.</description>
     </item>
     
     <item>
-      <title>Extraction and Testing</title>
-      <link>https://www.mindthegrow.com/production/chemistry/</link>
+      <title>Quality Testing &amp; Extraction</title>
+      <link>https://www.mindthegrow.com/casestudies/quality/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/production/chemistry/</guid>
+      <guid>https://www.mindthegrow.com/casestudies/quality/</guid>
       <description>Problem Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
 Approach The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
 We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>

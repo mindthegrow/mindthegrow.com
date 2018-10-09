@@ -6,84 +6,17 @@
     <description>Recent content in Case Study on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.mindthegrow.com/categories/case-study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analytics</title>
-      <link>https://www.mindthegrow.com/production/analytics/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/production/analytics/</guid>
-      <description>Problem Everything starts with a conversation. We consider the challenges unique to your business and compile a list of your ideas for potential solutions.
-Approach We dig deep into your company’s data to discover opportunities and problem areas.
-By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.
-Outcome We present you with a variety of options to achieve your goals as well as the associated risk profile for each decision.</description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Agriculture</title>
-      <link>https://www.mindthegrow.com/production/agriculture/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/production/agriculture/</guid>
-      <description>Problem The Green Rush has resulted in a skewed marketplace subject to price volatility. Diversification is the key to weathering the storm of wild market swings. Identifying strategies to find a sustainable market niche is becoming a necessity.
-Approach We can help you identify optimal conditions for any strain, experiment with diversification and reinvestment strategies, and generate projections to attract investors. Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment.</description>
-    </item>
-    
-    <item>
-      <title>Extraction and Testing</title>
-      <link>https://www.mindthegrow.com/production/chemistry/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/production/chemistry/</guid>
-      <description>Problem Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
-Approach The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
-We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>
-    </item>
-    
-    <item>
-      <title>Cannabis Consumption Enterprises</title>
-      <link>https://www.mindthegrow.com/opportunity/cce/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/cce/</guid>
-      <description>Problem The Social Consumption License created by [Initiative 300][1] in Denver, CO is so new that very little information exists online. A client approached us to perform a preliminary investigation into what is required to get started.
-Approach We compiled a report that categorized the main obstacles and linked to resources for accomplishing the requirements. The focus was on clarity of exposition and brevity.
-Outcome The client decided the location requirements were prohibitively expensive and chose not to pursue the project further.</description>
-    </item>
-    
-    <item>
-      <title>Growth Hacking</title>
-      <link>https://www.mindthegrow.com/opportunity/growth/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/growth/</guid>
-      <description>Problem Growth is central to survival. Understanding where inefficiencies lie in your business can help catapult you to the next level.
-Approach We aim to provide you with clear and concise information to address your most pressing questions and concerns.
-Outcome We identify problems and find new sectors for expansion. By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
-    </item>
-    
-    <item>
-      <title>Investment Consulting</title>
-      <link>https://www.mindthegrow.com/opportunity/investment/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mindthegrow.com/opportunity/investment/</guid>
-      <description>Problem Funders want to know the risks of their ventures, and we bridge the gap between their concerns and your ambitions.
-Approach We help you actualize goals into reality by crafting rigorous business plans. As you already know, big plans come with big unknowns. Let us quantify them.
-By helping you identify and assess risks, we allow your business to try new ideas without sacrificing potential profits.
-Outcome We turn idealistic goals into realistic implementation strategies.</description>
-    </item>
-    
-    <item>
       <title>Social Consumption License</title>
-      <link>https://www.mindthegrow.com/retail/socialconsumption/</link>
+      <link>https://www.mindthegrow.com/casestudies/socialconsumption/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mindthegrow.com/retail/socialconsumption/</guid>
+      <guid>https://www.mindthegrow.com/casestudies/socialconsumption/</guid>
       <description>Problem A client approached us with interest in exploring the feasibility of opening up a new Cannabis Consumption Enterprise in Denver, CO (our home-base!).
 The passing of Initiative 300 to legalize designated areas for the consumption of cannabis products was exciting, but the legal hoops to jump through are numerous, so it is no surprise that there is a severe paucity of operational businesses. At the time of this writing (mid-2018), only two are operational.</description>
     </item>

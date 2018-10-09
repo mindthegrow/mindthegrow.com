@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bizdev on Mind the Grow</title>
+    <link>https://www.mindthegrow.com/categories/bizdev/</link>
+    <description>Recent content in Bizdev on Mind the Grow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.mindthegrow.com/categories/bizdev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Development</title>
+      <link>https://www.mindthegrow.com/casestudies/bizdev/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mindthegrow.com/casestudies/bizdev/</guid>
+      <description>Problem Growth is central to survival. Understanding where inefficiencies lie in your business can help catapult you to the next level.
+Approach We aim to provide you with clear and concise information to address your most pressing questions and concerns.
+Outcome We identify problems and find new sectors for expansion. By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
+    </item>
+    
+  </channel>
+</rss>
