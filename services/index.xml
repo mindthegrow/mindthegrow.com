@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Mind the Grow</title>
-    <link>/categories/services/</link>
-    <description>Recent content in Services on Mind the Grow</description>
+    <title>What we offer on Mind the Grow</title>
+    <link>/services/</link>
+    <description>Recent content in What we offer on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
