@@ -6,64 +6,77 @@
     <description>Recent content on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Data Analysis</title>
-      <link>/services/analytics/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Entrepeneurship &amp; Investment</title>
+      <link>/solutions/growth/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/services/analytics/</guid>
-      <description>Rigorous Insights We dig deep into your company’s data to discover opportunities and problem areas.
-We present you with a variety of options to achieve your goals as well as the associated risk profile for each decision.
-Leveraging data analytics to grow your market, improve profit margins, and mitigate risk.
-Simulating Reality By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
+      <guid>/solutions/growth/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Data-Driven Agriculture</title>
-      <link>/services/agriculture/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <title>CadoCast</title>
+      <link>/solutions/cadocast/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/services/agriculture/</guid>
-      <description>Problem The Green Rush has resulted in a skewed marketplace subject to price volatility. Diversification is the key to weathering the storm of wild market swings.
-Responsible Agriculture Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment. These goals may seem at odds with profit margins, but through creative solutions and robust analytics, we help you achieve responsible growth for your plants and your business.</description>
+      <guid>/solutions/cadocast/</guid>
+      <description>Avocados Today Avocados are trending. Sales have grown tremendously over the past decade due to factors such as cuisine trends (avocado toast) and diet crazes (Paleo and KETO diets). But it is not merely fads that drive sales. The Avocado is a vital staple of the North American diet. Thousands of fast-casual restaurants and Tuesday night taco dinners rely on the creamy fruit to supply flavor and nutrients. The forecast clearly demonstrates that sales will only grow higher.</description>
     </item>
     
     <item>
-      <title>Extraction and Testing</title>
-      <link>/services/chemistry/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Rigorous Insights through Data-Driven Agriculture</title>
+      <link>/solutions/analytics/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/services/chemistry/</guid>
+      <guid>/solutions/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MateMapper</title>
+      <link>/solutions/matemapper/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/matemapper/</guid>
+      <description>Description of product</description>
+    </item>
+    
+    <item>
+      <title>Cannalytics</title>
+      <link>/solutions/cannalytics/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/cannalytics/</guid>
+      <description>Note:
+Move descriptions into text, make non-summary, product.</description>
+    </item>
+    
+    <item>
+      <title>Quality Assurance, Extraction, and Testing</title>
+      <link>/solutions/chemistry/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/chemistry/</guid>
       <description>Precision Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
 The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
 Efficiency We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>
     </item>
     
     <item>
-      <title>Growth Hacking</title>
-      <link>/services/growth/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Sustainability</title>
+      <link>/solutions/investment/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/services/growth/</guid>
-      <description>Insights We aim to provide you with clear and concise information to address your most pressing questions and concerns.
-Opportunity We identify problems and find new sectors for expansion. By using cutting-edge mathematical and computer-science tools, we simulate potential revenue streams to gain deeper insights into your plans for growth.</description>
-    </item>
-    
-    <item>
-      <title>Investment Consulting</title>
-      <link>/services/investment/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/services/investment/</guid>
-      <description>Insights Growth is central to your survival.
-Funders want to know the risks of their ventures, and we bridge the gap between their concerns and your ambitions.
-Strategy We help you actualize goals into reality by crafting rigorous business plans. As you already know, big plans come with big unknowns. Let us quantify them.
-By helping you identify and assess risks, we allow your business to try new ideas without sacrificing potential profits.</description>
+      <guid>/solutions/investment/</guid>
+      <description>Responsible Agriculture Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment. These goals may seem at odds with profit margins, but through creative solutions and robust analytics, we help you achieve responsible growth for your plants and your business.
+Sustainability It is a principle baked in to everything we do. It cannot just be a buzzword.
+We turn idealistic goals into realistic implementation strategies.</description>
     </item>
     
     <item>
