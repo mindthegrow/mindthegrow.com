@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/solutions/cadocast/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/solutions/investment/</loc>
+    <loc>/solutions/sustainability/</loc>
     <lastmod>2019-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -127,6 +137,12 @@
   <url>
     <loc>/categories/social-consumption/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/solutions/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

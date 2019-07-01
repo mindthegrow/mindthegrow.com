@@ -21,12 +21,32 @@
     </item>
     
     <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Our Mission At Mind the Grow, we leverage data analytics to help your Agribusiness grow, maintain, and sustain. From seed to store, we are here to advise and consult on agricultural and business decisions.
+Data-Driven Decision Making We help your Agribusiness identify the risks it faces and the opportunities it has to grow. Our proprietary methods yield a flexible set of decisions that lead to success under uncertainty.
+No data?</description>
+    </item>
+    
+    <item>
       <title>CadoCast</title>
       <link>/solutions/cadocast/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/cadocast/</guid>
       <description>Avocados Today Avocados are trending. Sales have grown tremendously over the past decade due to factors such as cuisine trends (avocado toast) and diet crazes (Paleo and KETO diets). But it is not merely fads that drive sales. The Avocado is a vital staple of the North American diet. Thousands of fast-casual restaurants and Tuesday night taco dinners rely on the creamy fruit to supply flavor and nutrients. The forecast clearly demonstrates that sales will only grow higher.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Seed a Relationship</description>
     </item>
     
     <item>
@@ -81,13 +101,13 @@ Efficiency We can use the latest developments from simulation-based optimal expe
     
     <item>
       <title>Sustainability</title>
-      <link>/solutions/investment/</link>
+      <link>/solutions/sustainability/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/investment/</guid>
+      <guid>/solutions/sustainability/</guid>
       <description>Responsible Agriculture Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment. These goals may seem at odds with profit margins, but through creative solutions and robust analytics, we help you achieve responsible growth for your plants and your business.
 Sustainability It is a principle baked in to everything we do. It cannot just be a buzzword.
-We turn idealistic goals into realistic implementation strategies.</description>
+Sustainability practices are vital for maintaining steady product yields and a healthy environment.</description>
     </item>
     
     <item>
