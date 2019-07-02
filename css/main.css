@@ -3563,14 +3563,6 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				background-attachment: scroll;
-			}
-
-		}
-
-		@media screen and (max-width: 736px) {
-
-			#banner {
 				padding: 5em 0 1em 0 ;
 				height: auto;
 				margin-bottom: -2.75em;
