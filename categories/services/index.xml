@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Mind the Grow</title>
+    <title>services on Mind the Grow</title>
     <link>/categories/services/</link>
-    <description>Recent content in Services on Mind the Grow</description>
+    <description>Recent content in services on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
@@ -17,16 +17,7 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/growth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CadoCast</title>
-      <link>/solutions/cadocast/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/solutions/cadocast/</guid>
-      <description>Avocados Today Avocados are trending. Sales have grown tremendously over the past decade due to factors such as cuisine trends (avocado toast) and diet crazes (Paleo and KETO diets). But it is not merely fads that drive sales. The Avocado is a vital staple of the North American diet. Thousands of restaurants and Tuesday night taco dinners rely on the creamy fruit to supply flavor and nutrients. The forecast clearly demonstrates that sales will only grow.</description>
+      <description>true</description>
     </item>
     
     <item>
@@ -35,7 +26,7 @@
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/analytics/</guid>
-      <description></description>
+      <description>true</description>
     </item>
     
     <item>
@@ -44,9 +35,7 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/chemistry/</guid>
-      <description>Precision Testing equipment has some natural variation built in to it that scientists are used to handling. However, classical statistical methods fail to address the natural variability present in different batches of product.
-The approach we take is rooted in cutting-edge computational mathematics to maximize the utility of information and address the underlying uncertainty in potency inherent to the cannabis plants.
-Efficiency We can use the latest developments from simulation-based optimal experimental design to adapt your testing regiments to budgetary and temporal constraints.</description>
+      <description>true</description>
     </item>
     
     <item>
@@ -55,9 +44,7 @@ Efficiency We can use the latest developments from simulation-based optimal expe
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/sustainability/</guid>
-      <description>Responsible Agriculture Less water. Less fertilizer. Less waste. Fewer pesticides. We are all collective stewards of our environment. These goals may seem at odds with profit margins, but through creative solutions and robust analytics, we help you achieve responsible growth for your plants and your business.
-Sustainability It is a principle ingrained in to everything we do. It cannot just be a buzzword.
-Sustainability practices are vital for maintaining steady product yields and a healthy environment.</description>
+      <description>false</description>
     </item>
     
   </channel>

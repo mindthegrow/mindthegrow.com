@@ -21,34 +21,7 @@
     </item>
     
     <item>
-      <title>Case Study</title>
-      <link>/categories/case-study/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/case-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cce</title>
-      <link>/categories/cce/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legal</title>
-      <link>/categories/legal/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/legal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Services</title>
+      <title>services</title>
       <link>/categories/services/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -57,20 +30,47 @@
     </item>
     
     <item>
-      <title>Social Consumption</title>
-      <link>/categories/social-consumption/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <title>solutions</title>
+      <link>/categories/solutions/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/social-consumption/</guid>
+      <guid>/categories/solutions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Solutions</title>
-      <link>/categories/solutions/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <title>case study</title>
+      <link>/categories/case-study/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/solutions/</guid>
+      <guid>/categories/case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cce</title>
+      <link>/categories/cce/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>legal</title>
+      <link>/categories/legal/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social consumption</title>
+      <link>/categories/social-consumption/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/social-consumption/</guid>
       <description></description>
     </item>
     
