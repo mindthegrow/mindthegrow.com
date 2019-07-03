@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mind the Grow</title>
+    <title>Mind the Grow</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Mind the Grow</description>
+    <description>Recent content on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
@@ -12,66 +12,102 @@
     
     
     <item>
-      <title></title>
-      <link>/categories/</link>
+      <title>Growth, Entrepeneurship &amp; Investment</title>
+      <link>/solutions/growth/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/</guid>
-      <description></description>
+      <guid>/solutions/growth/</guid>
+      <description>true</description>
     </item>
     
     <item>
-      <title>services</title>
-      <link>/categories/services/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>solutions</title>
-      <link>/categories/solutions/</link>
+      <title>About Us</title>
+      <link>/about/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/solutions/</guid>
-      <description></description>
+      <guid>/about/</guid>
+      <description>false</description>
     </item>
     
     <item>
-      <title>case study</title>
-      <link>/categories/case-study/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <title>CadoCast</title>
+      <link>/solutions/cadocast/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/case-study/</guid>
-      <description></description>
+      <guid>/solutions/cadocast/</guid>
+      <description>false</description>
     </item>
     
     <item>
-      <title>cce</title>
-      <link>/categories/cce/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cce/</guid>
-      <description></description>
+      <guid>/contact/</guid>
+      <description>false</description>
     </item>
     
     <item>
-      <title>legal</title>
-      <link>/categories/legal/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <title>Rigorous Insights through Data-Driven Agriculture</title>
+      <link>/solutions/analytics/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/legal/</guid>
-      <description></description>
+      <guid>/solutions/analytics/</guid>
+      <description>true</description>
     </item>
     
     <item>
-      <title>social consumption</title>
-      <link>/categories/social-consumption/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <title>Cafélytics</title>
+      <link>/cafelytics/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/social-consumption/</guid>
-      <description></description>
+      <guid>/cafelytics/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>CoffeeCode</title>
+      <link>/solutions/coffeecode/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/coffeecode/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>MateMapper</title>
+      <link>/solutions/matemapper/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/matemapper/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>Cannalytics</title>
+      <link>/solutions/cannalytics/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/cannalytics/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>Quality Assurance, Extraction, and Testing</title>
+      <link>/solutions/chemistry/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/chemistry/</guid>
+      <description>true</description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>/solutions/sustainability/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/sustainability/</guid>
+      <description>false</description>
     </item>
     
   </channel>
