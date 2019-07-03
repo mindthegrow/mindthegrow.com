@@ -15,14 +15,14 @@
   </url>
   
   <url>
-    <loc>/solutions/growth/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/solutions/analytics/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/solutions/analytics/</loc>
+    <loc>/solutions/growth/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,6 +70,12 @@
   <url>
     <loc>/solutions/matemapper/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/software/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
