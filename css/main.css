@@ -3418,7 +3418,7 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
+		height: 100vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
@@ -3561,7 +3561,16 @@
 		}
 
 		@media screen and (max-width: 1280px) {
-
+			#banner {
+                    height: auto;
+					min-height: 0;
+					max-height: none;
+				}
+	
+			}
+	
+		@media screen and (max-width: 736px) {
+	
 			#banner {
 				padding: 5em 0 1em 0 ;
 				height: auto;

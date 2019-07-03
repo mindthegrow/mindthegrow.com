@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Cafélytics</title>
+      <link>/cafelytics/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cafelytics/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
       <title>CoffeeCode</title>
       <link>/solutions/coffeecode/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -66,7 +75,7 @@
     </item>
     
     <item>
-      <title>MatéMapper</title>
+      <title>MateMapper</title>
       <link>/solutions/matemapper/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
