@@ -1,0 +1,29 @@
+
+In 2012 Michael Pilosov traveled to a coffee cooperative in Guatemala as a volunteer. 
+For his volunteer project, he decided to apply his mathematical and coding abilities to analyze strategies for the co-op’s agricultural development. 
+He discovered the data that had been collected by co-op over the years was sparse, containing only very basic information about land ownership and species planted. 
+
+Michael did what he could despite the lack of data--he developed a model that projected a general trend of future yields cooperative-wide, using information gathered from conversations.
+Equipped with a model, he discovered that, despite a bright forecast for growth in the coming years, the co-op was not on track to sustain consistent harvests in the long-term. 
+The current operational state of the co-op (assuming no additional acquisitions of land) depicted large dips in harvest yields.
+
+These stemmed from the cyclic nature of the coffee tree itself. 
+Since they were planted at the same time, many trees would deteriorate and require replanting simultaneously.
+Consequently, the rapid growth of the cooperative would come back to plague them in the form of rapid decline.
+This posed a serious threat on a medium-term timeline, potentially leading to a complete restructuring of existing arrangements for coffee beans. 
+
+Michael engaged with the managers to discuss possible strategies to address year-over-year variation in the yields on the horizon. 
+It was necessary for the co-op to execute decisions that would level these production trends to ensure the long-term sustainability of the cooperative.
+The model could be used to simulate every idea that was proposed (e.g. land investment, tree intercropping, etc.); many scenarios could be played out in search of a feasible strategy to address the looming threats.
+
+Sustainability and longevity were the primary operating goals, so an ideal strategy would result in a relatively “flat” yield projection, with perhaps a gentle positive slope.
+In order to stabilize the cooperative’s future yields, a solution had to be implemented that would mitigate harvest declines without requiring significant capital intervention.
+
+Small amounts of land would need to be purchased to supplement the co-op’s present yield trends. 
+Optimal purchase intervals were assessed, but some intervals of expansion exasperated the sustainability problems. 
+Thus, an optimal purchase interval would need to be elected.
+Simultaneously, it would be necessary for some portion of farmers (or plots) to prematurely upheave healthy trees in the peak of their fruiting maturity.
+
+Before their trees entered the final phase and began to produce lower yields, while still at full-capacity, they would need to be cut down and seedlings planted in their place.
+According to the simulation, about one-third of existing candidate plots would have to be sacrificed for the greater good. 
+This action (in accordance with well-timed land purchases), would keep the cooperative’s yields in a range that allowed them to meet contracts consistently for decades to come. 
