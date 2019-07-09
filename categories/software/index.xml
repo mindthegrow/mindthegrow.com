@@ -6,7 +6,7 @@
     <description>Recent content in software on Mind the Grow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>Cafélytics</title>
       <link>/cafelytics/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/cafelytics/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>CadoCast</title>
+      <link>/solutions/cadocast/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/cadocast/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>CoffeeCode</title>
+      <link>/solutions/coffeecode/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/coffeecode/</guid>
+      <description>false</description>
+    </item>
+    
+    <item>
+      <title>MateMapper</title>
+      <link>/solutions/matemapper/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/matemapper/</guid>
       <description>false</description>
     </item>
     

@@ -21,9 +21,18 @@
     </item>
     
     <item>
-      <title>Growth &amp; Investment</title>
-      <link>/solutions/growth/</link>
+      <title>Investment</title>
+      <link>/solutions/invest/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/invest/</guid>
+      <description>true</description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>/solutions/growth/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/growth/</guid>
       <description>true</description>
@@ -32,19 +41,10 @@
     <item>
       <title>Precision through Mathematics</title>
       <link>/solutions/chemistry/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/solutions/chemistry/</guid>
       <description>true</description>
-    </item>
-    
-    <item>
-      <title>Sustainability</title>
-      <link>/solutions/sustainability/</link>
-      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/solutions/sustainability/</guid>
-      <description>false</description>
     </item>
     
   </channel>
